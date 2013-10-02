@@ -1,0 +1,45 @@
+
+body
+{
+  background-image: url('http://www.helsinkijazzunderground.com/wp-content/themes/fredriksson-music/images/paper_background.jpg');
+  font-family: 'helvetica';
+}
+
+h1
+{
+  border-bottom: 2px solid #000000;
+}
+
+h1
+{
+  color: #007F16;
+}
+
+h4
+{
+  font-family: 'Over the Rainbow', cursive;
+  margin: .75em;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+img
+{
+  height: 100px;
+  width: 100px;
+}
+
+.songtitle
+{
+  font-family: 'Over the Rainbow', cursive;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.headernav
+{
+  display: inline;
+}
